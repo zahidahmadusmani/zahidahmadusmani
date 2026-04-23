@@ -14,12 +14,13 @@
 
 ## About Me
 
-I'm a web developer specializing in the **MERN Stack**, currently working as an **Associate Software Engineer at Tech Emulsion, Peshawar**. I build scalable web applications, Chrome extensions, and full-stack solutions using modern JavaScript technologies.
+I'm a full-stack web developer specializing in the **MERN Stack**, currently working as an **Associate Software Engineer at Tech Emulsion, Peshawar**. I build scalable web applications, Chrome extensions, and full-stack solutions using modern JavaScript technologies.
 
 - 🏢 Currently at **Tech Emulsion** — building React.js & Next.js apps integrated with Supabase
 - 💻 Available for **remote freelance** projects
 - 🎓 **BCS (Hons) Computer Science** — Abdul Wali Khan University Mardan | cGPA: 3.77
 - 🚀 **1,135+ GitHub contributions** in the last year
+- 🔨 **658 commits** in April 2026 alone across 4 repositories
 
 ---
 
@@ -83,10 +84,20 @@ I'm a web developer specializing in the **MERN Stack**, currently working as an 
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahidahmadusmani&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Zahid's GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zahidahmadusmani&theme=flat&no-frame=true&no-bg=true&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+> ⚠️ **Note:** Stats below reflect only **public** repository activity. Make some repos public to show your full 1,135+ contributions.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zahidahmadusmani&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="Zahid's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -94,7 +105,15 @@ I'm a web developer specializing in the **MERN Stack**, currently working as an 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidahmadusmani&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidahmadusmani&layout=compact&hide_border=true&theme=default&count_private=true" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahidahmadusmani&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
