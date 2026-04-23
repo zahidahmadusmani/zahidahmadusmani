@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a full-stack web developer specializing in the **MERN Stack**, currently working as an **Associate Software Engineer at Tech Emulsion, Peshawar**. I build scalable web applications, Chrome extensions, and full-stack solutions using modern JavaScript technologies.
+I'm a web developer specializing in the **MERN Stack**, currently working as an **Associate Software Engineer at Tech Emulsion, Peshawar**. I build scalable web applications, Chrome extensions, and full-stack solutions using modern JavaScript technologies.
 
 - 🏢 Currently at **Tech Emulsion** — building React.js & Next.js apps integrated with Supabase
 - 💻 Available for **remote freelance** projects
